@@ -49,7 +49,6 @@ namespace Vigenere_Cipher_UI
                     position = 0;
                 }
             }
-            //Console.WriteLine(count);   // Print debugging
             return count;
         }
 
@@ -66,7 +65,6 @@ namespace Vigenere_Cipher_UI
                     position = 0;
                 }
             }
-            //Console.WriteLine(count);   // Print debugging
             return count;
         }
 
